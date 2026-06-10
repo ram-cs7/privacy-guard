@@ -246,7 +246,10 @@ class PrivacyGuardAgent:
 
     def _call(self, prompt: str) -> dict:
         """Call Gemini and parse JSON response."""
-        response = self.model.generate_content(prompt)
+        response = self.model.generate_content(
+            prompt,
+            generation_config={"response_mime_type": "application/json"}
+        )
         text = response.text.strip()
         text = re.sub(r"^```(?:json)?\s*", "", text)
         text = re.sub(r"\s*```$",          "", text)
