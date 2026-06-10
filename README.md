@@ -2,6 +2,10 @@
 
 > AI-powered PII detection, compliance analysis & semantic audit search — built with Gemini + MongoDB Atlas
 
+**Live Demo:** [privacy-guard-agent.streamlit.app](https://privacy-guard-agent.streamlit.app)
+
+![PrivacyGuard Agent Dashboard](screenshot.png)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Built with Gemini](https://img.shields.io/badge/Built%20with-Gemini-4285F4)](https://aistudio.google.com)
 [![MongoDB Atlas](https://img.shields.io/badge/MongoDB-Atlas-00ED64)](https://mongodb.com)
