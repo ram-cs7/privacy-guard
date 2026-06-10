@@ -1,0 +1,28 @@
+MEDICAL RECORD — CONFIDENTIAL
+Patient: John Michael Doe
+Date of Birth: 14/03/1985
+SSN: 123-45-6789
+Address: 42 Maple Street, Austin, TX 78701
+Phone: +1-555-0147
+Email: john.doe.patient@gmail.com
+
+Attending Physician: Dr. Sarah Williams
+Date of Visit: 22 May 2026
+
+Chief Complaint: Patient presents with persistent chest pain and shortness of breath.
+
+Medical History:
+- Type 2 Diabetes (diagnosed 2019)
+- Hypertension — currently on Lisinopril 10mg
+- Family history of coronary artery disease
+
+Lab Results:
+- HbA1c: 7.8% (elevated)
+- LDL Cholesterol: 142 mg/dL
+- Blood Pressure: 148/92 mmHg
+
+Insurance: BlueCross BlueShield, Policy #BCB-9923847
+Emergency Contact: Jane Doe (spouse) — +1-555-0198
+
+Notes: Patient counselled on dietary modifications. Follow-up scheduled for 
+June 19, 2026. Prescription sent to CVS Pharmacy, patient consent obtained.

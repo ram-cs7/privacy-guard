@@ -1,0 +1,33 @@
+LOAN APPLICATION — INTERNAL PROCESSING
+Application ID: LA-2026-884421
+
+Applicant: Priya Sharma
+DOB: 09/11/1990
+SSN: 987-65-4321
+Email: priya.sharma@techcorp.com
+Phone: +1-415-555-0293
+Address: 890 Market Street, Apt 12B, San Francisco, CA 94102
+
+Employment: Senior Software Engineer, TechCorp Inc.
+Annual Salary: $145,000
+Employment Start: March 2021
+
+Bank Details:
+Account Number: 4920 3847 1029 5678
+Routing Number: 021000021
+Bank: Chase Bank
+
+Credit Card (on file): 4111 1111 1111 1111
+Expiry: 08/2028 | CVV: 392
+
+Credit Score: 742
+Loan Amount Requested: $50,000
+Purpose: Home renovation
+
+Co-applicant: Raj Sharma (spouse)
+Co-applicant SSN: 456-78-9012
+Co-applicant Email: raj.sharma@gmail.com
+
+Processed by: Agent ID A-00291
+Internal Notes: Application flagged for manual review due to 
+recent address change 45 days ago. Standard AML check completed.

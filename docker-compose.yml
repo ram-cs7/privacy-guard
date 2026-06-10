@@ -1,0 +1,13 @@
+version: "3.9"
+services:
+  privacyguard:
+    build: .
+    ports:
+      - "8501:8501"
+    environment:
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - MONGODB_URI=${MONGODB_URI}
+      - DB_NAME=${DB_NAME:-privacyguard}
+    volumes:
+      - ./sample_docs:/app/sample_docs
+    restart: unless-stopped
