@@ -76,7 +76,7 @@ docker-compose up
 └────────────────────┬────────────────────────────────────┘
                      │
          ┌───────────▼───────────┐
-         │   PrivacyGuard Agent   │  Gemini 1.5 Flash
+         │   PrivacyGuard Agent   │  Gemini 3.5 Flash
          │                       │
          │  Step 1: Pre-scan     │  → Document type prediction
          │  Step 2: Chunk        │  → Split large documents
