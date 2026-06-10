@@ -16,9 +16,9 @@ AUDIT_COLLECTION    = "audit_log"
 VECTORS_COLLECTION  = "document_vectors"
 
 # ── Models ────────────────────────────────────────────────────────────────────
-GEMINI_MODEL     = "gemini-1.5-flash"
-EMBEDDING_MODEL  = "models/text-embedding-004"
-EMBEDDING_DIM    = 768          # text-embedding-004 output dimension
+GEMINI_MODEL     = "gemini-2.5-flash"
+EMBEDDING_MODEL  = "models/gemini-embedding-2"
+EMBEDDING_DIM    = 768          # gemini-embedding-2 output dimension
 
 # ── Vector Search ─────────────────────────────────────────────────────────────
 VECTOR_INDEX_NAME  = "privacyguard_vector_index"
