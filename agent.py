@@ -209,8 +209,8 @@ class PrivacyGuardAgent:
         prompt = PRESCAN_PROMPT.format(text=text[:1000])
         try:
             return self._call(prompt)
-        except Exception:
-            return {"document_type": "unknown", "predicted_risk": "MEDIUM"}
+        except Exception as e:
+            return {"document_type": f"Error: {e}", "predicted_risk": "MEDIUM"}
 
     def _detect_chunk(self, text: str, compliance: list) -> dict:
         prompt = DETECT_PROMPT.format(
